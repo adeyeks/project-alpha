@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300;400;600&family=Roboto+Condensed:wght@300;400;700&family=Roboto:ital,wght@0,400;0,700;1,100;1,300;1,500;1,900&display=swap');
+body{
+    margin: 0;
+}
+*{
+    box-sizing: border-box;
+}
+
+/* nav top */
+.navtop .container-fluid{
+    background-color: #a52a2aca;
+    padding: 1rem 0rem;
+}
+.navtop .container-fluid .row .col i{
+    color: white;
+    margin: 0rem .8rem;
+}
+.navtop .container-fluid .row .col i:hover{
+    opacity: 0.5;
+}
+
+/* navbar */
+.navbar .navbar-nav .nav-item a{
+    padding: 1rem .8rem;
+}
+.navbar .navbar-nav .nav-item a:hover{
+    color: #a52a2aca;
+}
+.navbar .navbar-nav .nav-item i{
+    padding: 0rem .3rem;
+}
+
+/* banner */
+#demo .carousel-inner img{
+    height: 90vh;
+}
+#demo .carousel-inner .carousel-item .carousel-caption{
+    background-color: rgba(0, 0, 0, 0.76);
+    text-transform: capitalize;
+}
+
+/* banner2 */
+.banner2{
+    margin-top: 3rem;
+}
+.banner2 .container .row .col-3 img{
+    height: 50vh;
+    width: 20vw;
+}
+.banner2 .container .row .col-3 img:hover{
+    opacity: 0.5;
+}
+.banner2 .container .row .col-3 p{
+    border: 1px solid #a52a2aca;
+    background-color: #a52a2aca;
+}
+.banner2 .container .row .col-3 p:hover{
+    color: #a52a2aca;
+}
+
+
+
+
+
+
+@media (max-width: 600px)
