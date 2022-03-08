@@ -58,6 +58,65 @@ body{
     color: #a52a2aca;
 }
 
+/* seun */
+.row .col img:hover{
+    transform: scaleX(-1);
+}
+.row .col .btn{
+    border: 1px solid red;
+    background-color: #a52a2aca;
+    color: black;
+}
+.row .col .btn:hover{
+    padding: .1rem;
+}
+.row-1 .col{
+    background-color: #a52a2aca;
+    
+
+    clip-path: polygon(93% 10%, 100% 0, 100% 97%, 0% 100%, 0 51%, 0% 0%);
+
+}
+
+
+
+/* noah */
+.body{
+    margin:0;
+}
+
+.container{
+    color: #a52a2aca;
+}
+
+.container .row .col{
+    margin-top: 2rem;
+    padding: 2rem 2rem;
+}
+.con .row .col{
+    margin-top: 2rem 2rem;
+}
+
+
+
+.con .row .col p a{
+    color: #a52a2aca;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.info{
+    text-transform: uppercase;
+    color: #a52a2aca;
+}
+
+.icon{
+    color: #a52a2aca
+    text-align: left;
+    font-size: 1.5rem;
+    margin: 1rem 1rem;
+}
+
 
 
 
