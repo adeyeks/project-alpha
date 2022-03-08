@@ -1,0 +1,39 @@
+.body{
+    margin:0;
+}
+
+.container-fluid i a{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.container .row .col{
+    margin-top: 2rem;
+    padding: 2rem 2rem;
+}
+.con .row .col{
+    margin-top: 2rem 2rem;
+}
+
+.con .row .col p{
+    color: brown;
+    text-transform: uppercase;
+}
+
+.con .row .col p a{
+    color: brown;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.info{
+    text-transform: uppercase;
+    color: brown;
+}
+
+.icon{
+    color: brown
+    text-align: left;
+    font-size: 1.5rem;
+    margin: 1rem 1rem;
+}
