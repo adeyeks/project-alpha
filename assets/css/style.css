@@ -59,6 +59,19 @@ body{
 }
 
 /* seun */
+
+/* navbar */
+.navbar .navbar-nav .nav-item a{
+    padding: 1rem .8rem;
+}
+.navbar .navbar-nav .nav-item a:hover{
+    color: #a52a2aca;
+}
+.navbar .navbar-nav .nav-item i{
+    padding: 0rem .3rem;
+}
+
+
 .row .col img:hover{
     transform: scaleX(-1);
 }
@@ -83,6 +96,17 @@ body{
 /* noah */
 .body{
     margin:0;
+}
+
+/* navbar */
+.navbar .navbar-nav .nav-item a{
+    padding: 1rem .8rem;
+}
+.navbar .navbar-nav .nav-item a:hover{
+    color: #a52a2aca;
+}
+.navbar .navbar-nav .nav-item i{
+    padding: 0rem .3rem;
 }
 
 .container{
